@@ -1,0 +1,10 @@
+"# DhruviTraining"  init
+"# DhruviTraining"  add README.md
+"# DhruviTraining"  commit -m "first commit"
+"# DhruviTraining"  branch -M main
+"# DhruviTraining"  remote add origin https://github.com/StackssDev/DhruviTraining.git
+"# DhruviTraining"  push -u origin main
+"# DhruviTraining"  remote add origin https://github.com/StackssDev/DhruviTraining.git git branch -M main    git push -u origin main 
+"# DhruviTraining"  init
+"# DhruviTraining"  add .
+"# DhruviTraining"  commit -m "first commit"
